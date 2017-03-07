@@ -79,51 +79,52 @@
 | 60059      | Cannot refund - transaction not found                  |
 | 60060      | Cannot refund - send failed                            |
 | 60061      | Cannot get account by owner                            |
-| 60062      | Cannot get account by remote id - isOwner failed       |
-| 60063      | Cannot get account by remote id - unauthorized         |
-| 60064      | Cannot create account                                  |
-| 60065      | Cannot add currency to account                         |
-| 60066      | Cannot remove account                                  |
-| 60067      | Cannot add owner to account                            |
-| 60068      | Cannot add owners to account - invalid params          |
-| 60069      | Cannot add owners to account                           |
-| 60070      | Cannot remove owner from account                       |
-| 60071      | Cannot set account active state                        |
-| 60072      | Cannot set account active state (admin)                |
-| 60073      | Cannot update account meta                             |
-| 60074      | Cannot get account txs stats - invalid params          |
-| 60075      | Cannot get account txs stats                           |
-| 60076      | Cannot get account txs - invalid params                |
-| 60077      | Cannot get account txs                                 |
-| 60078      | Cannot get account txs paginated                       |
-| 60079      | Cannot get terminal payment list                       |
-| 60080      | Cannot get terminal payment list paginated             |
-| 60081      | Cannot get communities - user accounts by owner failed |
-| 60082      | Cannot get communities - no accounts                   |
-| 60083      | Cannot get communities - getAccountsCommunities failed |
-| 60084      | Cannot complete community                              |
-| 60085      | Cannot get community by id                             |
-| 60086      | Cannot get community by admin                          |
-| 60087      | Cannot update community settings                       |
-| 60088      | Cannot add admins to community - invalid params        |
-| 60089      | Cannot add admins to community                         |
-| 60090      | Cannot remove admin from community                     |
-| 60091      | Cannot create community                                |
-| 60092      | Cannot get payment list                                |
-| 60093      | Cannot create community and currency - invalid params  |
-| 60094      | Cannot create community                                |
-| 60095      | Cannot create community - currency create              |
-| 60096      | Cannot get community account - get by admin            |
-| 60097      | Cannot get community account - unauthorized            |
-| 60098      | Cannot get community account - get by remoteId         |
-| 60099      | Cannot join community - isOwner failed                 |
-| 60100      | Cannot join community - unauthorized                   |
-| 60101      | Cannot get community merchants                         |
-| 60102      | Cannot get community merchants paginated               |
-| 60103      | Cannot get community members                           |
-| 60104      | Cannot get community members paginated                 |
-| 60105      | Cannot get local economies                             |
-| 60106      | Cannot get local economies paginated                   |
-| 60107      | Cannot get community all transactions                  |
-| 60108      | Cannot get community all transactions paginated        |
+| 60062      | Cannot get account by remote id                        |
+| 60063      | Cannot get account by remote id - isOwner failed       |
+| 60064      | Cannot get account by remote id - unauthorized         |
+| 60065      | Cannot create account                                  |
+| 60066      | Cannot add currency to account                         |
+| 60067      | Cannot remove account                                  |
+| 60068      | Cannot add owner to account                            |
+| 60069      | Cannot add owners to account - invalid params          |
+| 60070      | Cannot add owners to account                           |
+| 60071      | Cannot remove owner from account                       |
+| 60072      | Cannot set account active state                        |
+| 60073      | Cannot set account active state (admin)                |
+| 60074      | Cannot update account meta                             |
+| 60075      | Cannot get account txs stats - invalid params          |
+| 60076      | Cannot get account txs stats                           |
+| 60077      | Cannot get account txs - invalid params                |
+| 60078      | Cannot get account txs                                 |
+| 60079      | Cannot get account txs paginated                       |
+| 60080      | Cannot get terminal payment list                       |
+| 60081      | Cannot get terminal payment list paginated             |
+| 60082      | Cannot get communities - user accounts by owner failed |
+| 60083      | Cannot get communities - no accounts                   |
+| 60084      | Cannot get communities - getAccountsCommunities failed |
+| 60085      | Cannot complete community                              |
+| 60086      | Cannot get community by id                             |
+| 60087      | Cannot get community by admin                          |
+| 60088      | Cannot update community settings                       |
+| 60089      | Cannot add admins to community - invalid params        |
+| 60090      | Cannot add admins to community                         |
+| 60091      | Cannot remove admin from community                     |
+| 60092      | Cannot create community                                |
+| 60093      | Cannot get payment list                                |
+| 60094      | Cannot create community and currency - invalid params  |
+| 60095      | Cannot create community                                |
+| 60096      | Cannot create community - currency create              |
+| 60097      | Cannot get community account - get by admin            |
+| 60098      | Cannot get community account - unauthorized            |
+| 60099      | Cannot get community account - get by remoteId         |
+| 60100      | Cannot join community - isOwner failed                 |
+| 60101      | Cannot join community - unauthorized                   |
+| 60102      | Cannot get community merchants                         |
+| 60103      | Cannot get community merchants paginated               |
+| 60104      | Cannot get community members                           |
+| 60105      | Cannot get community members paginated                 |
+| 60106      | Cannot get local economies                             |
+| 60107      | Cannot get local economies paginated                   |
+| 60108      | Cannot get community all transactions                  |
+| 60109      | Cannot get community all transactions paginated        |
 | 70001      | Failed to retrieve account                             |
