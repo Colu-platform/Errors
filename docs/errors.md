@@ -128,3 +128,16 @@
 | 60108      | Cannot get community all transactions                  |
 | 60109      | Cannot get community all transactions paginated        |
 | 70001      | Failed to retrieve account                             |
+| 80000      | Generic error                                          |
+| 80001      | Bootstrap error                                        |
+| 80002      | Unauthorized for private area                          |
+| 80003      | Cannot purchase - missing parameters                   |
+| 80004      | Cannot purchase - getUserAccount failed                |
+| 80005      | Cannot purchase - account not found                    |
+| 80006      | Cannot purchase - getCurrency failed                   |
+| 80007      | Cannot purchase - no data found for currency           |
+| 80008      | Cannot make zooz api call                              |
+| 80009      | Cannot open payment - missing accountId                |
+| 80010      | Cannot open payment                                    |
+| 80011      | Cannot sale                                            |
+| 80012      | Cannot get from user management                        |
