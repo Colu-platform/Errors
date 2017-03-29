@@ -128,9 +128,7 @@
 | 60108      | Cannot get community all transactions                  |
 | 60109      | Cannot get community all transactions paginated        |
 | 60110      | Cannot get messages by owner paginated                 |
-| 60111      | Cannot create message                                  |
-| 60112      | Cannot create message - validation error               |
-| 60113      | Cannot mark as read                                    |
+| 60111      | Cannot mark as read                                    |
 | 70001      | Failed to retrieve account                             |
 | 80000      | Generic error                                          |
 | 80001      | Bootstrap error                                        |
