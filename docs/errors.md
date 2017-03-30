@@ -129,6 +129,13 @@
 | 60109      | Cannot get community all transactions paginated        |
 | 60110      | Cannot get messages by owner paginated                 |
 | 60111      | Cannot mark as read                                    |
+| 60112      | Cannot create referral - validation error              |
+| 60113      | Cannot create referral                                 |
+| 60114      | Cannot get referral by referee (populated)             |
+| 60115      | Cannot get community account by currency               |
+| 60116      | Cannot send referral bonus                             |
+| 60117      | Cannot redeem referral                                 |
+| 60118      | Cannot get currency for referral                       |
 | 70001      | Failed to retrieve account                             |
 | 80000      | Generic error                                          |
 | 80001      | Bootstrap error                                        |
