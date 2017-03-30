@@ -136,6 +136,8 @@
 | 60116      | Cannot send referral bonus                             |
 | 60117      | Cannot redeem referral                                 |
 | 60118      | Cannot get currency for referral                       |
+| 60119      | already redeemed                                       |
+| 60120      | disabled                                               |
 | 70001      | Failed to retrieve account                             |
 | 80000      | Generic error                                          |
 | 80001      | Bootstrap error                                        |
