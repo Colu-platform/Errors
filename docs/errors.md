@@ -127,6 +127,10 @@
 | 60107      | Cannot get local economies paginated                   |
 | 60108      | Cannot get community all transactions                  |
 | 60109      | Cannot get community all transactions paginated        |
+| 60110      | Cannot get community admin record                      |
+| 60111      | Cannot determine account owner                         |
+| 60112      | Transaction has multiple recipients cannot refund      |
+| 60113      | Cannot search for transaction                          |
 | 70000      | Cannot get messages by owner paginated                 |
 | 70001      | Cannot mark as read                                    |
 | 80000      | Cannot create referral - validation error              |
