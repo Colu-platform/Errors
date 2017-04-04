@@ -127,28 +127,29 @@
 | 60107      | Cannot get local economies paginated                   |
 | 60108      | Cannot get community all transactions                  |
 | 60109      | Cannot get community all transactions paginated        |
-| 60110      | Cannot get messages by owner paginated                 |
-| 60111      | Cannot mark as read                                    |
-| 60112      | Cannot create referral - validation error              |
-| 60113      | Cannot create referral                                 |
-| 60114      | Cannot get referral by referee (populated)             |
-| 60115      | Cannot get community account by currency               |
-| 60116      | Cannot send referral bonus                             |
-| 60117      | Cannot redeem referral                                 |
-| 60118      | Cannot get currency for referral                       |
-| 60119      | already redeemed                                       |
-| 60120      | disabled                                               |
-| 70001      | Failed to retrieve account                             |
-| 80000      | Generic error                                          |
-| 80001      | Bootstrap error                                        |
-| 80002      | Unauthorized for private area                          |
-| 80003      | Cannot purchase - missing parameters                   |
-| 80004      | Cannot purchase - getUserAccount failed                |
-| 80005      | Cannot purchase - account not found                    |
-| 80006      | Cannot purchase - getCurrency failed                   |
-| 80007      | Cannot purchase - no data found for currency           |
-| 80008      | Cannot make zooz api call                              |
-| 80009      | Cannot open payment - missing accountId                |
-| 80010      | Cannot open payment                                    |
-| 80011      | Cannot sale                                            |
-| 80012      | Cannot get from user management                        |
+| 70000      | Cannot get messages by owner paginated                 |
+| 70001      | Cannot mark as read                                    |
+| 80000      | Cannot create referral - validation error              |
+| 80001      | Cannot create referral                                 |
+| 80002      | Cannot get referral by referee (populated)             |
+| 80003      | Cannot get community account by currency               |
+| 80004      | Cannot send referral bonus                             |
+| 80005      | Cannot redeem referral                                 |
+| 80006      | Cannot get currency for referral                       |
+| 80007      | already redeemed                                       |
+| 80008      | disabled                                               |
+| 80009      | Cannot get currency by community                       |
+| 90000      | Generic error                                          |
+| 90001      | Bootstrap error                                        |
+| 90002      | Unauthorized for private area                          |
+| 90003      | Cannot purchase - missing parameters                   |
+| 90004      | Cannot purchase - getUserAccount failed                |
+| 90005      | Cannot purchase - account not found                    |
+| 90006      | Cannot purchase - getCurrency failed                   |
+| 90007      | Cannot purchase - no data found for currency           |
+| 90008      | Cannot make zooz api call                              |
+| 90009      | Cannot open payment - missing accountId                |
+| 90010      | Cannot open payment                                    |
+| 90011      | Cannot sale                                            |
+| 90012      | Cannot get from user management                        |
+| 100000     | Failed to retrieve account                             |
