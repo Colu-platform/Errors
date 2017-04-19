@@ -131,6 +131,7 @@
 | 60111      | Cannot determine account owner                         |
 | 60112      | Transaction has multiple recipients cannot refund      |
 | 60113      | Cannot search for transaction                          |
+| 60114      | Transaction already refunded                           |
 | 70000      | Cannot get messages by owner paginated                 |
 | 70001      | Cannot mark as read                                    |
 | 80000      | Cannot create referral - validation error              |
@@ -143,6 +144,7 @@
 | 80007      | already redeemed                                       |
 | 80008      | disabled                                               |
 | 80009      | Cannot get currency by community                       |
+| 80010      | Cannot get community for referral                      |
 | 90000      | Generic error                                          |
 | 90001      | Bootstrap error                                        |
 | 90002      | Unauthorized for private area                          |
