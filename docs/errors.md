@@ -132,6 +132,9 @@
 | 60112      | Transaction has multiple recipients cannot refund      |
 | 60113      | Cannot search for transaction                          |
 | 60114      | Transaction already refunded                           |
+| 60115      | Cannot change merchant state - unauthorized            |
+| 60116      | Cannot change merchant account state - unauthorized    |
+| 60117      | Cannot delete merchant - unauthorized                  |
 | 70000      | Cannot get messages by owner paginated                 |
 | 70001      | Cannot mark as read                                    |
 | 80000      | Cannot create referral - validation error              |
