@@ -1,6 +1,6 @@
 {
   "name": "colu-errors",
-  "version": "0.0.12",
+  "version": "0.0.13",
   "description": "Errors emitted with Colu server responses.",
   "main": "index.js",
   "author": "oleiba <oded@colu.com>",
