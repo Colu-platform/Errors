@@ -136,6 +136,8 @@
 | 60116      | Cannot change merchant account state - unauthorized    |
 | 60117      | Cannot delete merchant - unauthorized                  |
 | 60118      | Cannot refund - tx state invalid - send failed         |
+| 60119      | Cannot build the types for i\os of this transaction    |
+| 60120      | Cannot get account                                     |
 | 70000      | Cannot get messages by owner paginated                 |
 | 70001      | Cannot mark as read                                    |
 | 80000      | Cannot create referral - validation error              |
