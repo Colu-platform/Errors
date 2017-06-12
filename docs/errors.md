@@ -138,6 +138,11 @@
 | 60118      | Cannot refund - tx state invalid - send failed         |
 | 60119      | Cannot build the types for i\os of this transaction    |
 | 60120      | Cannot get account                                     |
+| 60121      | Cannot create promotion                                |
+| 60122      | Cannot edit promotion                                  |
+| 60123      | Cannot get promotions by merchant                      |
+| 60124      | Cannot get promotions by community                     |
+| 60125      | Cannot stop promotion                                  |
 | 70000      | Cannot get messages by owner paginated                 |
 | 70001      | Cannot mark as read                                    |
 | 80000      | Cannot create referral - validation error              |
