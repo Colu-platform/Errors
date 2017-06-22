@@ -144,6 +144,12 @@
 | 60124      | Cannot get promotions by community                                      |
 | 60125      | Cannot stop promotion                                                   |
 | 60126      | Cannot create promotion - merchant already has active/pending promotion |
+| 60127      | Cannot create widget                                                    |
+| 60128      | Cannot edit widget                                                      |
+| 60129      | Cannot get widgets by community                                         |
+| 60130      | Cannot activate widget                                                  |
+| 60131      | Cannot activate widget - community already has an active widget         |
+| 60132      | Cannot deactivate widget                                                |
 | 70000      | Cannot get messages by owner paginated                                  |
 | 70001      | Cannot mark as read                                                     |
 | 80000      | Cannot create referral - validation error                               |
