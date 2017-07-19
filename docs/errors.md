@@ -152,6 +152,8 @@
 | 60132      | Cannot deactivate widget                                                |
 | 70000      | Cannot get messages by owner paginated                                  |
 | 70001      | Cannot mark as read                                                     |
+| 70002      | Cannot get message by id                                                |
+| 70003      | Cannot get message by id - invalid owner                                |
 | 80000      | Cannot create referral - validation error                               |
 | 80001      | Cannot create referral                                                  |
 | 80002      | Cannot get referral by referee (populated)                              |
