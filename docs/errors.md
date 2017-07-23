@@ -150,6 +150,8 @@
 | 60130      | Cannot activate widget                                                  |
 | 60131      | Cannot activate widget - community already has an active widget         |
 | 60132      | Cannot deactivate widget                                                |
+| 60133      | Cannot update colu user                                                 |
+| 60134      | Cannot invalidate colu user session tokens                              |
 | 70000      | Cannot get messages by owner paginated                                  |
 | 70001      | Cannot mark as read                                                     |
 | 70002      | Cannot get message by id                                                |
