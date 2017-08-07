@@ -13,7 +13,7 @@
     "prepublish": "gulp prepublish"
   },
   "dependencies": {
-    "cc-errors": "~0.0.6"
+    "cc-errors": "^0.1.0"
   },
   "devDependencies": {
     "gulp": "^3.9.1",
