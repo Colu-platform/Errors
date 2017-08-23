@@ -152,6 +152,12 @@
 | 60132      | Cannot deactivate widget                                                |
 | 60133      | Cannot update colu user                                                 |
 | 60134      | Cannot invalidate colu user session tokens                              |
+| 60135      | Cannot build new transaction                                            |
+| 60136      | Cannot submit transaction                                               |
+| 60137      | Cannot get transaction by id                                            |
+| 60138      | Cannot get transactions                                                 |
+| 60139      | Cannot get transactions paginated                                       |
+| 60140      | Cannot get transaction options                                          |
 | 70000      | Cannot get messages by owner paginated                                  |
 | 70001      | Cannot mark as read                                                     |
 | 70002      | Cannot get message by id                                                |
