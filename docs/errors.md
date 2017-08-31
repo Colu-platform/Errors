@@ -158,6 +158,7 @@
 | 60138      | Cannot get transactions                                                 |
 | 60139      | Cannot get transactions paginated                                       |
 | 60140      | Cannot get transaction options                                          |
+| 60141      | Cannot update terminal permissions                                      |
 | 70000      | Cannot get messages by owner paginated                                  |
 | 70001      | Cannot mark as read                                                     |
 | 70002      | Cannot get message by id                                                |
