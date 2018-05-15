@@ -175,6 +175,8 @@
 | 80009      | Cannot get currency by community                                        |
 | 80010      | Cannot get community for referral                                       |
 | 80011      | could not send report                                                   |
+| 80020      | Community API - Invalid params                                          |
+| 80021      | Account stats - failed to add campaign                                  |
 | 90000      | Generic error                                                           |
 | 90001      | Bootstrap error                                                         |
 | 90002      | Unauthorized for private area                                           |
