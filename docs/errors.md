@@ -179,7 +179,9 @@
 | 80021      | Account stats - failed to add campaign                                  |
 | 80022      | P2P transactions disabled                                               |
 | 80023      | Balance limit exceeded                                                  |
-| 80024      | Account BalaceActivity Exceeded                                         |
+| 80024      | Account Transaction Activity Exceeded                                   |
+| 80025      | Recipient KYC Failed                                                    |
+| 80026      | Sender KYC Failed                                                       |
 | 90000      | Generic error                                                           |
 | 90001      | Bootstrap error                                                         |
 | 90002      | Unauthorized for private area                                           |

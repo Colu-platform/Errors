@@ -16,7 +16,7 @@
     "cc-errors": "^0.1.0"
   },
   "devDependencies": {
-    "gulp": "^3.9.1",
+    "gulp": "^4.0.2",
     "markdown-table": "^0.4.0"
   }
 }
